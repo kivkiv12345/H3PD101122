@@ -1,0 +1,6 @@
+[submodule "MyQueryHouse"]
+	path = MyQueryHouse
+	url = https://github.com/kivkiv12345/MyQueryHouse.git
+[submodule "ProjectManager"]
+	path = ProjectManager
+	url = https://github.com/kivkiv12345/ProjectManager.git

@@ -4,3 +4,9 @@
 [submodule "ProjectManager"]
 	path = ProjectManager
 	url = https://github.com/kivkiv12345/ProjectManager.git
+[submodule "kotlin_hello_world"]
+	path = kotlin_hello_world
+	url = https://github.com/kivkiv12345/kotlin_hello_world.git
+[submodule "MyQueryORM"]
+	path = MyQueryORM
+	url = https://github.com/kivkiv12345/MyQueryORM.git

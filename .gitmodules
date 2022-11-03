@@ -10,3 +10,6 @@
 [submodule "MyQueryORM"]
 	path = MyQueryORM
 	url = https://github.com/kivkiv12345/MyQueryORM.git
+[submodule "vue-project"]
+	path = vue-project
+	url = https://github.com/kivkiv12345/vue-project.git
